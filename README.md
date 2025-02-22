@@ -1,4 +1,4 @@
-![Profile Banner](https://via.placeholder.com/1200x300/007ACC/FFFFFF?text=Full-stack+Developer+%7C+Obakeng+Phikiso)
+![Profile Banner](https://media.licdn.com/dms/image/v2/C4D16AQHlIsK3Y_O1Ow/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1574156359796?e=1745452800&v=beta&t=0xuQA_vNCeqCdxVk4O4sVrDyng17sbAczqX-NrXxWPw)
 
 👨‍💻 Experienced Full-stack Developer | 🌍 Johannesburg, South Africa | 📧 [obakeng.phikiso@gmail.com](mailto:obakeng.phikiso@gmail.com)
 
